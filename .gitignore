@@ -1,0 +1,7 @@
+ # Caffe models
+models/pretrained/*.caffemodel*
+
+# StereoDNN
+*.data*
+*.meta*
+*.bin
